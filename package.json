@@ -1,0 +1,22 @@
+{
+  "name": "chart-generator",
+  "version": "1.0.0",
+  "description": "Our first assignment in Fullstack Javascript - Chart Generator App with express.js framework",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",  
+    "dev": "nodemon index.js"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/JenniferPanares/ChartGenerator"
+  },
+  "author": "Jennifer Panares and Ted Josh Angelo Gayas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
